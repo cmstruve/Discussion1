@@ -1,1 +1,1 @@
-<h1>Christian</h1>
+<h1>Christian Struve</h1>
